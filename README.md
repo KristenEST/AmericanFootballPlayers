@@ -2,16 +2,22 @@ AmericanFootballPlayers
 
 ### BE SERVER
 Run server in main folder with
-``` yarn start  ``` or ``` npm start ```
+``` 
+yarn start  ``` or ``` npm start 
+```
 BE server files are located in /server.
 BE server will be run on [localhost](http://localhost:4000/)
 
 ### FE SERVER
 Run FE in /top25NFLPlayers with
-``` yarn start  ``` or ``` npm start ``` or ``` expo start  ```
+``` 
+yarn start  ``` or ``` npm start ``` or ``` expo start  
+```
 
 If packages are not installed
-``` npm install ```
+``` 
+npm install 
+```
 
 
 Source tutorial made by [Ali Alihaddad](https://medium.com/@alialhaddad) found at:
